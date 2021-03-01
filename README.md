@@ -11,16 +11,20 @@ Oxury is a historic townhouse hotel combining the laid-back warmth of a Georgian
 
 ## Get Started :rocket:
 
-Navigate into your new site’s directory and start it up.
+Navigate into your new site’s directory and start it up
+
+1. Sign up to DatoCMS
+
+2. Navigate into gatsby directory 
 
 ```shell
-cd Oxury/
+cd luxury-hotel-gatsby/
+npm i
 gatsby develop
 ```
-
 Open [http://localhost:8000](http://localhost:8000) with your browser to see the result.
 
-Note: You'll also see a second link: _`http://localhost:8000/___graphql`_. This is a tool you can use to experiment with querying your data. 
+Note: Add your DatoCMS API token to ``gatsby-config`` file
 
 ## Technologies 🛠️
 
